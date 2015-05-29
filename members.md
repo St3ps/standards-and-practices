@@ -1,4 +1,4 @@
-# Roster -- Learn Programming Mentoring Community
+﻿# Roster -- Learn Programming Mentoring Community
 ## Mentor Roster
 
 | **Title** | **Name** | **GitHub** | **Reddit** | **Languages** |
@@ -156,6 +156,7 @@ Format:
 | Joanna Alcausin | [Madamsmall](https://github.com/madamsmall) | Senior CS student with experience in Java and xCode. Interested in extending knowledge from classroom to applicable workplace skills. |
 | Joe Sawyer | [zkay](https://github.com/zkay) | I am learning Ruby and Rails, trying to become a professional web developer in 2014. ||
 | Joel Roggeman | [jroggeman](https://github.com/jroggeman) | I'm a computer science major who knows a good amount of Java, a fair amount of C, and tiny bits of various others.  I want to get better at programming, learn C#, get familiar with programming tools (git, makefiles, debugger, etc), and gain experience while contributing to FOSS. ||
+| Joel Santos | [St3ps](https://github.com/St3ps) | Currently looking into .NET related Web Development technologies, also aiming to ingrain better programming knowledge and practices ||
 | John Moon | [jmoon90](https://github.com/jmoon90) | Entrepreneur looking to learn Ruby on Rails with a community.  |
 | John Ryder | [tokens](https://github.com/tokens) ||
 | Johnicholas Hines | [Johnicholas](https://github.com/Johnicholas) ||
